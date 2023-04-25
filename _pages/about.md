@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+¡Hola! Soy estudiante de la Univesidad Autonoma del Estado de Mexico, cursando la carrera de Ing. en Computacion, algo que me gusta mucho hacer en mis tiempos libres es jugar Minecraft y los juegos shooter's, me gusta aprender nuevas cosas y si algo me gusta le pongo mucho empeño. Les muestro algo que aprendi hacer en mi carrera [YouTube](https://youtu.be/aJE5XUbKF0s). Tambien me gusta aprender a cocinar o hacer manualidades, algo que quiero aprender es a tocar el piano y a tomar buenas fotografias. `dcliz_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
