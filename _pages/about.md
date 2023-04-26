@@ -2,7 +2,7 @@
 layout: about
 title: Mi pagina web
 permalink: /
-subtitle: LizDom [facebook](https://www.facebook.com/lizbeth.dominguez.10297?mibextid=ZbWKwL)
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
