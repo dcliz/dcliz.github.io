@@ -25,14 +25,16 @@ hardware y software, incluidas redes informáticas, microprocesadores, sistemas 
 señales digitales. Están involucrados en el diseño y la construcción de sistemas informáticos, el desarrollo de aplicaciones de software,
 la prueba y evaluación de componentes de hardware y software, y la resolución de problemas y el mantenimiento de sistemas informáticos.
 
-La carrera me gusta por: 
+La carrera me gusta por: ..............
 Yo en un futuro me veo... haciendo y diseñando paginas web pero tambien trabajando en telecomunicaciones.
-Me gustaría aprender: Bien bien bien un lenguaje de progracion algunos lenguajes que me llaman la atencion es (JavaScrip, Phyton y C++) al igual que tomar un curso de Bases de datos para profundizar mas el conocimiento hacerca de ellos.
+Me gustaría aprender: Bien bien bien un lenguaje de progracion algunos lenguajes que me llaman la atencion es
+ ([JavaScrip](https://developer.microsoft.com/es-es/javascript/), [Phyton](https://www.python.org/) y [C++](http://www.bloodshed.net/)) 
+ al igual que tomar un curso de Bases de datos para profundizar mas el conocimiento hacerca de ellos.
 
 
 Algo que hago en mis tiempos libres es jugar Minecraft y los juegos shooter's, Me gusta aprender nuevas
 cosas, hacer manualidades diseñar cualquier cosa, en mi caso me gusta ponerle mucho empeño en mis trabajos. 
-Aqui muestro el recorrido de mi figura 3D que la realice en AutoCAD.[YouTube](https://youtu.be/aJE5XUbKF0s) y para ver mas completo de la figura realice una presentacion donde muestra paso a paso en un video de como la hice, [Canva](https://www.canva.com/design/DAFSvk15tDA/WLGPJapJRWdDCEZSGFNZNw/edit?utm_content=DAFSvk15tDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).`3D.jpg` and put it in the `img/` folder.
+Aqui muestro el recorrido de mi figura 3D que la realice en AutoCAD.  [YouTube](https://youtu.be/aJE5XUbKF0s) y para ver mas completo de la figura realice una presentacion donde muestra paso a paso en un video de como la hice, [Canva](https://www.canva.com/design/DAFSvk15tDA/WLGPJapJRWdDCEZSGFNZNw/edit?utm_content=DAFSvk15tDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).`3D.jpg` and put it in the `img/` folder.
 
 
 
