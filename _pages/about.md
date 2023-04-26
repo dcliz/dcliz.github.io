@@ -2,11 +2,11 @@
 layout: about
 title: Mi pagina web
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: LizDom [facebook](https://www.facebook.com/lizbeth.dominguez.10297?mibextid=ZbWKwL)
 
 profile:
   align: right
-  image: totem.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
