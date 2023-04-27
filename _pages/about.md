@@ -42,10 +42,10 @@ social: true  # includes social icons at the bottom of the page
 
 
  Mis redes sociales: 🐣🦆
- •[Facebook](https://www.facebook.com/lizbeth.dominguez.10297?mibextid=ZbWKwL)
- •[Instagram](https://instagram.com/_lizbethdc_?igshid=ZDdkNTZiNTM=)
- •[YouTube](https://youtube.com/@lizbethdominguez1856)
- •[Discord]()
+ -[Facebook](https://www.facebook.com/lizbeth.dominguez.10297?mibextid=ZbWKwL)
+ -[Instagram](https://instagram.com/_lizbethdc_?igshid=ZDdkNTZiNTM=)
+ -[YouTube](https://youtube.com/@lizbethdominguez1856)
+ -[Discord]Id(dcliz#5528)
 
 
 
