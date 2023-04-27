@@ -1,8 +1,8 @@
 ---
 layout: about
 title: Mi pagina web
-permalink: [UAEMEX](https://www.uaemex.mx)
-subtitle: <a href='#'>Ingenieria en Commputacion</a>.
+permalink: /
+subtitle: <a href='#'>Ingenieria en Computacion</a>.
 profile:
   align: right
   image: prof_pic.jpg
@@ -24,7 +24,7 @@ hardware y software, incluidas redes informáticas, microprocesadores, sistemas 
 señales digitales. Están involucrados en el diseño y la construcción de sistemas informáticos, el desarrollo de aplicaciones de software,
 la prueba y evaluación de componentes de hardware y software, y la resolución de problemas y el mantenimiento de sistemas informáticos💻
 
-La carrera me gusta por: 
+La carrera me gusta por: ..............
 Yo en un futuro me veo... haciendo y diseñando paginas web pero tambien trabajando en telecomunicaciones.
 Me gustaría aprender: Bien bien bien un lenguaje de progracion algunos lenguajes que me llaman la atencion es
  ([JavaScrip](https://developer.microsoft.com/es-es/javascript/), [Phyton](https://www.python.org/) y [C++](http://www.bloodshed.net/)) 
