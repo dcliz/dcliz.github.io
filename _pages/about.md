@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
   señales digitales. Están involucrados en el diseño y la construcción de sistemas informáticos, el desarrollo de aplicaciones de software,
   la prueba y evaluación de componentes de hardware y software, y la resolución de problemas y el mantenimiento de sistemas informáticos💻
 
-  La carrera me gusta por: ..............
+  La carrera me gusta por: porque tiene varias ramificaciones las cuales son la reparacion de equipo 
 
 
   Yo en un futuro me veo... haciendo y diseñando paginas web pero tambien trabajando en lo que tiene que ver con telecomunicaciones.
@@ -37,7 +37,7 @@ social: true  # includes social icons at the bottom of the page
 
   Algo que hago en mis tiempos libres es jugar Minecraft y los juegos shooter's 🎮, Me gusta aprender nuevas
   cosas, hacer manualidades diseñar cualquier cosa, en mi caso me gusta ponerle mucho empeño en mis trabajos. 
-  Aqui muestro el recorrido de mi figura 3D que la realice en AutoCAD.  [YouTube](https://youtu.be/aJE5XUbKF0s) y para ver mas completo de la figura realice una presentacion donde muestra paso a paso en un video de como la hice, [Canva](https://www.canva.com/design/DAFSvk15tDA/WLGPJapJRWdDCEZSGFNZNw/edit?utm_content=DAFSvk15tDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).  ![Figura 3D!](C:\Users\Admin\Desktop\dcliz\dcliz.github.io\assets\img"Figura 3D")
+  Aqui muestro el recorrido de mi figura 3D que la realice en AutoCAD.  [YouTube](https://youtu.be/aJE5XUbKF0s) y para ver mas completo de la figura realice una presentacion donde muestra paso a paso en un video de como la hice, [Canva](https://www.canva.com/design/DAFSvk15tDA/WLGPJapJRWdDCEZSGFNZNw/edit?utm_content=DAFSvk15tDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).  ![Figura 3D!](C:/Users/Admin/Desktop/dcliz/dcliz.github.io/assets/img"Figura 3D")
 
 
 
