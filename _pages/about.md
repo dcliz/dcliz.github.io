@@ -37,15 +37,15 @@ social: true  # includes social icons at the bottom of the page
 
   Algo que hago en mis tiempos libres es jugar Minecraft y los juegos shooter's 🎮, Me gusta aprender nuevas
   cosas, hacer manualidades diseñar cualquier cosa, en mi caso me gusta ponerle mucho empeño en mis trabajos. 
-  Aqui muestro el recorrido de mi figura 3D que la realice en AutoCAD.  [YouTube](https://youtu.be/aJE5XUbKF0s) y para ver mas completo de la figura realice una presentacion donde muestra paso a paso en un video de como la hice, [Canva](https://www.canva.com/design/DAFSvk15tDA/WLGPJapJRWdDCEZSGFNZNw/edit?utm_content=DAFSvk15tDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).  `3D.jpg` and put it in the `img/` folder.
+  Aqui muestro el recorrido de mi figura 3D que la realice en AutoCAD.  [YouTube](https://youtu.be/aJE5XUbKF0s) y para ver mas completo de la figura realice una presentacion donde muestra paso a paso en un video de como la hice, [Canva](https://www.canva.com/design/DAFSvk15tDA/WLGPJapJRWdDCEZSGFNZNw/edit?utm_content=DAFSvk15tDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).  `3D.jpg` and put it in the `C:\Users\Admin\Desktop\dcliz\dcliz.github.io\assets\img/` folder.
 
 
 
- Mis redes sociales:
- instagram_id: # your instagram id
- facebook_id: # your facebook id
- youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
- discord_id: # your discord id (18-digit unique numerical identifier)
+ Mis redes sociales: 🐣🦆
+ •[Facebook](https://www.facebook.com/lizbeth.dominguez.10297?mibextid=ZbWKwL)
+ •[Instagram](https://instagram.com/_lizbethdc_?igshid=ZDdkNTZiNTM=)
+ •[YouTube](https://youtube.com/@lizbethdominguez1856)
+ •[Discord]()
 
 
 
