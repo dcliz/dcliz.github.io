@@ -1,3 +1,4 @@
+
 ---
 layout: about
 title: Mi pagina web
@@ -7,10 +8,10 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  #address: >
-    #<p>555 your office number</p>
-    #<p>123 your address street</p>
-    #<p>Your City, State 12345</p>
+  address: >
+    <p>Correo Institucional:gdominguezc004@alumno.uaemex.mx</p>
+    <p>Contacto:5512345678</p>
+    <p>[UAEMex](https://www.uaemex.mx/)</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -24,11 +25,8 @@ social: true  # includes social icons at the bottom of the page
   señales digitales. Están involucrados en el diseño y la construcción de sistemas informáticos, el desarrollo de aplicaciones de software,
   la prueba y evaluación de componentes de hardware y software, y la resolución de problemas y el mantenimiento de sistemas informáticos💻
 
-  La carrera me gusta por: porque tiene varias ramificaciones las cuales son la reparacion de equipo 
-
-
-  Yo en un futuro me veo... haciendo y diseñando paginas web pero tambien trabajando en lo que tiene que ver con telecomunicaciones.
-
+  La carrera me gusta por: porque tiene varias ramificaciones las cuales son la reparacion de equipo, hacer páginas web y conectar una base de datos, trabajar en la infraestructura, aprender hacer proyectos desde cero y trabajar en equipo, programar para dar soluciones de un problema y mas...
+ Yo en un futuro me veo... haciendo y diseñando paginas web pero tambien trabajando en lo que tiene que ver con telecomunicaciones.
 
   Me gustaría aprender: Bien bien bien un lenguaje de progracion algunos lenguajes que me llaman la atencion es
   ([JavaScrip](https://developer.microsoft.com/es-es/javascript/), [Phyton](https://www.python.org/) y [C++](http://www.bloodshed.net/)) 
