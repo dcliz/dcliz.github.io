@@ -7,7 +7,6 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  align: right
   address: >
     <p>Correo Personal:
     guadalupedominguezcuello4@gmail.com 
@@ -24,10 +23,6 @@ social: true  # includes social icons at the bottom of the page
 
 
 ---
-
-
-
-
 
   ¡Hola! 🙋‍♀️ Soy estudiante de la Univesidad Autonoma del Estado de Mexico. Estoy cursando el 8tavo semestre de la carrera de Ing. en Computacion ⌨
   Es una carrera no facil 🤷‍♀️ pero si muy interesante 🙆‍♀️, Por que? Porque Los ingenieros en computacion trabajan en una amplia gama de tecnologías de
