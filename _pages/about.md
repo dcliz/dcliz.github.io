@@ -24,9 +24,9 @@ social: true  # includes social icons at the bottom of the page
   Es una carrera no facil 🤷‍♀️ pero si muy interesante 🙆‍♀️, Por que? Porque Los ingenieros en computacion trabajan en una amplia gama de tecnologías de
   hardware y software, incluidas redes informáticas, microprocesadores, sistemas operativos, lenguajes de programación y procesamiento de 
   señales digitales. Están involucrados en el diseño y la construcción de sistemas informáticos, el desarrollo de aplicaciones de software,
-  la prueba y evaluación de componentes de hardware y software, y la resolución de problemas y el mantenimiento de sistemas informáticos💻
+  la prueba y evaluación de componentes de hardware y software, la resolución de problemas y el mantenimiento de sistemas informáticos💻
 
-  La carrera me gusta por: porque tiene varias ramificaciones las cuales son la reparacion de equipo, hacer páginas web y conectar una base de datos, trabajar en la infraestructura, aprender hacer proyectos desde cero y trabajar en equipo, programar para dar soluciones de un problema y mas...
+  La carrera me gusta por: Porque tiene varias ramificaciones las cuales son la reparacion de equipo, hacer páginas web y conectar una base de datos, trabajar en la infraestructura, aprender hacer proyectos desde cero, trabajar en equipo, programar para dar soluciones de un problema y mas...
  Yo en un futuro me veo... haciendo y diseñando paginas web pero tambien trabajando en lo que tiene que ver con telecomunicaciones.
 
   Me gustaría aprender: Bien bien bien un lenguaje de progracion algunos lenguajes que me llaman la atencion es
@@ -36,7 +36,7 @@ social: true  # includes social icons at the bottom of the page
 
   Algo que hago en mis tiempos libres es jugar Minecraft y los juegos shooter's 🎮, Me gusta aprender nuevas
   cosas, hacer manualidades diseñar cualquier cosa, en mi caso me gusta ponerle mucho empeño en mis trabajos. 
-  Aqui muestro el recorrido de mi figura 3D que la realice en AutoCAD.  [YouTube](https://youtu.be/aJE5XUbKF0s) y para ver mas completo de la figura realice una presentacion donde muestra paso a paso en un video de como la hice, [Canva](https://www.canva.com/design/DAFSvk15tDA/WLGPJapJRWdDCEZSGFNZNw/edit?utm_content=DAFSvk15tDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).  ![Figura 3D!](/assets/img/Figura 3D.jpg"Figura 3D")
+  Aqui muestro el recorrido de mi figura 3D que realice en AutoCAD.  [YouTube](https://youtu.be/aJE5XUbKF0s) y para ver mas completo de como elabore la figura 3D realice una presentacion donde muestro paso a paso en un video de como la hice, [Canva](https://www.canva.com/design/DAFSvk15tDA/WLGPJapJRWdDCEZSGFNZNw/edit?utm_content=DAFSvk15tDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).  ![Figura 3D!](/assets/img/Figura 3D.jpg"Figura 3D")
 
 
 
