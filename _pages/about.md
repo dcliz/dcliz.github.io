@@ -8,9 +8,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Correo Institucional:gdominguezc004@alumno.uaemex.mx</p>
-    <p>Contacto:5512345678</p>
-    <p>[UAEMex](https://www.uaemex.mx/)</p>
+    <p>Correo Personal:
+    guadalupedominguezcuello4@gmail.com 
+    </p><p>Correo Institucional:
+    gdominguezc004@alumno.uaemex.mx</p>
+    <p>Direccion:Boulevard Universitario S/N Valle Escondido, Río San Javier, 54500 Cd López Mateos, Méx.</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
