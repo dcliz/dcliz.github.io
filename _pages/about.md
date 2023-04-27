@@ -13,7 +13,6 @@ profile:
     </p><p>Correo Institucional:
     gdominguezc004@alumno.uaemex.mx</p>
     <p>Direccion:Boulevard Universitario S/N Valle Escondido, 
-    
     Río San Javier, 54500 Cd López Mateos, Méx.</p>
 
 news: true  # includes a list of news items
@@ -23,10 +22,11 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-
-
-
 ---
+
+
+
+
 
   ¡Hola! 🙋‍♀️ Soy estudiante de la Univesidad Autonoma del Estado de Mexico. Estoy cursando el 8tavo semestre de la carrera de Ing. en Computacion ⌨
   Es una carrera no facil 🤷‍♀️ pero si muy interesante 🙆‍♀️, Por que? Porque Los ingenieros en computacion trabajan en una amplia gama de tecnologías de
