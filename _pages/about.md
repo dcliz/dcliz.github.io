@@ -20,6 +20,12 @@ news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+
+
+
+
+
 ---
 
   ¡Hola! 🙋‍♀️ Soy estudiante de la Univesidad Autonoma del Estado de Mexico. Estoy cursando el 8tavo semestre de la carrera de Ing. en Computacion ⌨
