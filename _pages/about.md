@@ -25,7 +25,11 @@ social: true  # includes social icons at the bottom of the page
   la prueba y evaluación de componentes de hardware y software, y la resolución de problemas y el mantenimiento de sistemas informáticos💻
 
   La carrera me gusta por: ..............
-  Yo en un futuro me veo... haciendo y diseñando paginas web pero tambien trabajando en telecomunicaciones.
+
+
+  Yo en un futuro me veo... haciendo y diseñando paginas web pero tambien trabajando en lo que tiene que ver con telecomunicaciones.
+
+
   Me gustaría aprender: Bien bien bien un lenguaje de progracion algunos lenguajes que me llaman la atencion es
   ([JavaScrip](https://developer.microsoft.com/es-es/javascript/), [Phyton](https://www.python.org/) y [C++](http://www.bloodshed.net/)) 
   al igual que tomar un curso de Bases de datos para profundizar mas el conocimiento hacerca de ellos.
